@@ -1,4 +1,4 @@
-# data-visualization-project-
+# data-visualization-project--
 About the Project
 Hi! I'm Nitin Pandey, a final-year Production & Industrial Engineering student. I built this project to make dataset cleaning and visualization easier for anyone dealing with raw data.
 
